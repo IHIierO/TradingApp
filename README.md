@@ -3,6 +3,10 @@
 <p align="center">
 
 
+
+<img src="https://github.com/IHIierO/TradingApp/assets/108677019/978c4549-6d23-4688-b08e-acc0a99b3a54" width="200" height="434">
+
+
 </p>
 
 <p align="center">
